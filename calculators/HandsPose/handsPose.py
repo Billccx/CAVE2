@@ -21,8 +21,11 @@ class HandsPose(BaseCalculator):
         self.pts_hand=None
 
         self.parser = argparse.ArgumentParser(description=' Project Hand Pose Inference')
-        self.parser.add_argument('--model_path', type=str, default='D:/CCX/Pipeline/calculators/HandsPose/weights/resnet_50-size-256-wingloss102-0.119.pth',
-                            help='model_path')  # 模型路径
+        self.parser.add_argument('--model_path',
+                                 type=str,
+                                 #default='D:/CCX/Pipeline/calculators/HandsPose/weights/resnet_50-size-256-wingloss102-0.119.pth',
+                                 default='/home/cuichenxi/code/Python/CAVE2/calculators/HandsPose/weights/resnet_50-size-256-wingloss102-0.119.pth',
+                                 help='model_path')  # 模型路径
         self.parser.add_argument('--model', type=str, default='resnet_50',
                             help='''model : resnet_34,resnet_50,resnet_101,squeezenet1_0,squeezenet1_1,shufflenetv2,shufflenet,mobilenetv2
                     shufflenet_v2_x1_5 ,shufflenet_v2_x1_0 , shufflenet_v2_x2_0,ReXNetV1''')  # 模型类型

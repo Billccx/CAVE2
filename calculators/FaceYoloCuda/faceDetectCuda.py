@@ -21,7 +21,8 @@ class FaceDetectCuda(BaseCalculator):
     def __init__(self):
         parser = argparse.ArgumentParser()
         parser.add_argument('--weights', nargs='+', type=str,
-                            default='D:/CCX/Pipeline/calculators/FaceYoloCuda/weights/yolov5n-face.pt',
+                            #default='D:/CCX/Pipeline/calculators/FaceYoloCuda/weights/yolov5n-face.pt',
+                            default='/home/cuichenxi/code/Python/CAVE2/calculators/FaceYoloCuda/weights/yolov5n-face.pt',
                             help='model.pt path(s)')
         parser.add_argument('--image', type=str, default='data/images/bus.jpg',
                             help='source')  # file/folder, 0 for webcam

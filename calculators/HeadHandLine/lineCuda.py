@@ -7,7 +7,8 @@ import math
 
 class LineCuda(BaseCalculator):
     def __init__(self):
-        f=open('D:/CCX/Pipeline/extrinsics/0toscreen.txt','r',encoding='utf-8')
+        #f=open('D:/CCX/Pipeline/extrinsics/0toscreen.txt','r',encoding='utf-8')
+        f = open('/home/cuichenxi/code/Python/CAVE2/extrinsics/0toscreen.txt', 'r', encoding='utf-8')
         R_ = []
         t_ = []
         knt = 0

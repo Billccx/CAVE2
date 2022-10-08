@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d768534-300d-4c57-8332-5ea3f0653df4" name="Changes" comment="9.19">
-      <change afterPath="$PROJECT_DIR$/calculators/HeadHandLine/choseLine2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculators/HeadHandLine/lineCuda3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extrinsics/backup/0to1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extrinsics/backup/0toscreen.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extrinsics/backup/1to0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extrinsics/backup/1toscreen.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/pipeline5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main5.py" afterDir="false" />
+    <list default="true" id="2d768534-300d-4c57-8332-5ea3f0653df4" name="Changes" comment="9.30">
+      <change beforePath="$PROJECT_DIR$/.idea/Pipeline.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pipeline.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculators/HandsPose/handsPose.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculators/HandsPose/handsPose.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculators/HandsYoloCuda/handdet/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculators/HandsYoloCuda/handdet/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculators/HeadHandLine/lineCuda2.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculators/HeadHandLine/lineCuda2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extrinsics/0to1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/extrinsics/0to1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extrinsics/0toscreen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/extrinsics/0toscreen.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extrinsics/1to0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/extrinsics/1to0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extrinsics/1toscreen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/extrinsics/1toscreen.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/pipeline1.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/pipeline1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphs/pipeline2.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/pipeline2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/extrinsics/backup" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/cuichenxi/code/Python/CAVE2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\CCX\Pipeline\extrinsics\backup" />
@@ -230,6 +216,12 @@
       <workItem from="1663659912506" duration="31000" />
       <workItem from="1663659952677" duration="1639000" />
       <workItem from="1663723639995" duration="596000" />
+      <workItem from="1664510978449" duration="71000" />
+      <workItem from="1664515120338" duration="1198000" />
+      <workItem from="1664952844722" duration="1233000" />
+      <workItem from="1664984279947" duration="2009000" />
+      <workItem from="1665131030144" duration="643000" />
+      <workItem from="1665216357775" duration="659000" />
     </task>
     <task id="LOCAL-00001" summary="8.16">
       <created>1660618084358</created>
@@ -294,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663595443193</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="9.30">
+      <created>1664511012899</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664511012899</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +309,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="8.16" />
@@ -319,7 +317,8 @@
     <MESSAGE value="8.28" />
     <MESSAGE value="9.7" />
     <MESSAGE value="9.19" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.19" />
+    <MESSAGE value="9.30" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.30" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -400,20 +399,20 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Pipeline$pipeline2.coverage" NAME="pipeline2 Coverage Results" MODIFIED="1663598423660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs" />
-    <SUITE FILE_PATH="coverage/Pipeline$main.coverage" NAME="main Coverage Results" MODIFIED="1663597778404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pipeline$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1663603342324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pipeline$faceDetectCuda.coverage" NAME="faceDetectCuda Coverage Results" MODIFIED="1663294548654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calculators/FaceYoloCuda" />
-    <SUITE FILE_PATH="coverage/Pipeline$getZero2One.coverage" NAME="getZero2One Coverage Results" MODIFIED="1663660220707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extrinsics" />
-    <SUITE FILE_PATH="coverage/Pipeline$main5.coverage" NAME="main5 Coverage Results" MODIFIED="1663661718015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pipeline$cameras.coverage" NAME="cameras Coverage Results" MODIFIED="1663661667270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pipeline$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1663134546257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calculators/HandsYoloCuda" />
-    <SUITE FILE_PATH="coverage/Pipeline$getOne2Screen.coverage" NAME="getOne2Screen Coverage Results" MODIFIED="1663660247048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extrinsics" />
-    <SUITE FILE_PATH="coverage/Pipeline$main4.coverage" NAME="main4 Coverage Results" MODIFIED="1663660261010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pipeline$pipeline1.coverage" NAME="pipeline1 Coverage Results" MODIFIED="1663295201248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs" />
-    <SUITE FILE_PATH="coverage/Pipeline$detect_faec2.coverage" NAME="detect_faec2 Coverage Results" MODIFIED="1663124777533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calculators/FaceYoloCuda" />
+    <SUITE FILE_PATH="coverage/Pipeline$getOne2Screen.coverage" NAME="getOne2Screen Coverage Results" MODIFIED="1663660247048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extrinsics" />
     <SUITE FILE_PATH="coverage/Pipeline$lineCuda.coverage" NAME="lineCuda Coverage Results" MODIFIED="1663329679273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calculators/HeadHandLine" />
+    <SUITE FILE_PATH="coverage/Pipeline$main.coverage" NAME="main Coverage Results" MODIFIED="1663597778404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pipeline$detect_faec2.coverage" NAME="detect_faec2 Coverage Results" MODIFIED="1663124777533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calculators/FaceYoloCuda" />
+    <SUITE FILE_PATH="coverage/Pipeline$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1663603342324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pipeline$lineCuda2.coverage" NAME="lineCuda2 Coverage Results" MODIFIED="1663596180098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calculators/HeadHandLine" />
     <SUITE FILE_PATH="coverage/Pipeline$getZero2screen.coverage" NAME="getZero2screen Coverage Results" MODIFIED="1663660158302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extrinsics" />
+    <SUITE FILE_PATH="coverage/Pipeline$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1663134546257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calculators/HandsYoloCuda" />
+    <SUITE FILE_PATH="coverage/Pipeline$main5.coverage" NAME="main5 Coverage Results" MODIFIED="1663661718015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pipeline$getZero2One.coverage" NAME="getZero2One Coverage Results" MODIFIED="1663660220707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extrinsics" />
+    <SUITE FILE_PATH="coverage/Pipeline$cameras.coverage" NAME="cameras Coverage Results" MODIFIED="1663661667270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pipeline$faceDetectCuda.coverage" NAME="faceDetectCuda Coverage Results" MODIFIED="1663294548654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calculators/FaceYoloCuda" />
+    <SUITE FILE_PATH="coverage/Pipeline$main4.coverage" NAME="main4 Coverage Results" MODIFIED="1663660261010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pipeline$pipeline2.coverage" NAME="pipeline2 Coverage Results" MODIFIED="1663598423660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphs" />
   </component>
 </project>
